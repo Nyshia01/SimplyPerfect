@@ -1,0 +1,73 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+
+/* Text Color */
+
+.simplyperfecttext {
+  color: #ff8584;
+}
+
+.signuptext {
+  color: #ff8584;
+}
+
+#navhover a:hover {
+  color: #1293a6;
+}
+
+/* Text Color Ends*/
+
+.logo {
+  width: 130px;
+  margin-left: 30px
+}
+
+
+#myBtn {
+  color: #1293a6;
+  border: none;
+}
+
+#founderborder {
+  border: none;
+}
+
+footer {
+  text-align: center;
+}
+
+#wellness, #beauty, #family {
+  margin-bottom: ;
+}
+
+.contactus {
+  margin-bottom: 0px;
+}
+
+/* Modal */
+
+#modalguts {
+  /* cover the modal */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  /* spacing as needed */
+  padding: 20px 50px 20px 20px;
+
+  /* let it scroll */
+  overflow: auto;
+}
+
+.foundermodalheading {
+  padding-top: 20px;
+  padding-bottom: 8px;
+}
+
+/* .jumbotron {
+  background-image: url("../img/evie-shaffer-725935-unsplash.jpg");
+  background-size: cover;
+} */

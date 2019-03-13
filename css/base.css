@@ -27,6 +27,10 @@ img {
   height: 50%;
 }
 
+.w3-section {
+  padding-bottom: 8px;
+}
+
 div {
   /* border: 1px solid black; */
   /* width: 300px;
@@ -66,8 +70,13 @@ div.section1 div {
   background-color: white;
 }
 
+.col a {
+  text-decoration: none;
+}
+
 p {
   padding: .5em;
+  padding-top: 0px;
 }
 
 .blogcontent {
@@ -110,6 +119,13 @@ footer {
   flex: 1 1;
 }
 
+.space {
+  margin-bottom: 15px;
+}
+
+.signup {
+  margin-top: 10px;
+}
 
 /* ================================= 
   Base Layout Styles
@@ -160,6 +176,49 @@ li a {
 li a:hover {
   color: #86d6d5;
 }
+
+/* ================================= 
+  Modal
+==================================== */
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+ /* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 
 /* ================================= 
   About Me
