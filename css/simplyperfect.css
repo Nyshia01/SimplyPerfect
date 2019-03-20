@@ -16,7 +16,11 @@
   color: #1293a6;
 }
 
-/* Text Color Ends*/
+#contactphone, #contactemail {
+  color: gray;
+}
+
+/* Text Color Ends */
 
 .logo {
   width: 130px;
@@ -70,7 +74,5 @@ footer {
   padding-bottom: 8px;
 }
 
-/* .jumbotron {
-  background-image: url("../img/evie-shaffer-725935-unsplash.jpg");
-  background-size: cover;
-} */
+/* Modal Ends */
+

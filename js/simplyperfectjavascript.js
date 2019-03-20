@@ -1,5 +1,6 @@
 
-          // MODAL //
+          // MODAL UNDER FOUNDER SECTION//
+          
 // Get the modal
 var modal = document.getElementById('myModal');
 
@@ -25,3 +26,9 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+          // AUTOMATICALLY CLOSE NAV BAR WHEN SELECTED //
+
+$('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
