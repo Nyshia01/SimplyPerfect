@@ -1,7 +1,10 @@
 # SimplyPerfect
 
+## Link to GitHub Page
 
-## About Simply Perfect
+(GitHub Page Link)[https://nyshia01.github.io/SimplyPerfect/]
+
+### About Simply Perfect
 
 Simply Perfect is a lifestyle brand that was founded in 2018. Since the brand is fairly new, there are a lot of changes taking place simultaneously. Despite this, certain aspects of the brand have already been defined, and the Simply Perfect website is the **perfect** outlet to connect with the brand’s intended audience—women between the ages of 30 and 55.
  
